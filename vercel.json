@@ -29,7 +29,7 @@
       },
       {
         "src": "/(.*)",
-        "dest": "mypro/wsgi.py"
+        "dest": "my_globe/wsgi.py"
       }
     ]
   }
